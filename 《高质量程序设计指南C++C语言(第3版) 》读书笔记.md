@@ -2,7 +2,7 @@
 
 #### 质量属性
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710135001.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710135001.png)
 
 性能：优化的关键任务是找出限制性能的“瓶颈”
 
@@ -10,19 +10,19 @@
 
 作者基于CMMI 3级的软件过程模型，称为“精简并行过程”（SPP）
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710144541.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710144541.png)
 
 优点：
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710144958.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710144958.png)
 
 SPP三层模型
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710145034.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710145034.png)
 
 测试分类
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710150613.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710150613.png)
 
 ### 程序的基本概念
 
@@ -40,20 +40,22 @@ extern "C"
 
 规范
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710170450.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710170450.png)
 
 关于void* 和 NULL
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710171810.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710171810.png)
 
 强制类型转化所导致的内存截断或内存扩张
 
 ”换行“和”回车“
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710185439.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710185439.png)
 
 关于&&和||
 
-![](C:\Users\Administrator\Desktop\读书笔记\Screenshot\QQ截图20200710190508.png)
+![](C:\Users\Administrator\Desktop\ReadingNotes\Screenshot\QQ截图20200710190508.png)
 
 不要将布尔变量直接与TRUE或者-1、0、1等进行比较
+
+67页
