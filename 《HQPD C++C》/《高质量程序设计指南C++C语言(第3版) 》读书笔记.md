@@ -60,4 +60,56 @@ extern "C"
 
 关于以行和列遍历数组的效率受影响主要是**大型数组导致的内存页面交换次数以及cache命中率的高低（Operate System），而不是循环的次数**
 
-第五章
+### 常量
+
+注意
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711144208.png)
+
+const与#define的比较
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711145430.png)
+
+非静态的const类成员的初始化只能在的类的构造函数的初始化列表中进行
+
+**5.5节，不是很透彻**
+
+### c++/c函数设计基础
+
+函数堆栈
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711160812.png)
+
+函数传值/传址/传引用
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711163231.png)
+
+类的赋值函数，返回引用
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711173208.png)
+
+String的operator + 
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711173756.png)
+
+return语句的效率
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711174521.png)
+
+
+
+尽量避免函数带有“记忆”功能。c++/c中，函数的static局部变量是函数的“记忆”存储器
+
+
+
+递归和迭代
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711181909.png)
+
+断言assert
+
+被const修饰的东西都收到c++/c语言实现的**静态类型安全检查机制**的保护
+
+
+
+第七章
