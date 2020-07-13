@@ -110,6 +110,24 @@ return语句的效率
 
 被const修饰的东西都收到c++/c语言实现的**静态类型安全检查机制**的保护
 
+### ※c++/c指针、数组和字符串
 
+读写周期
 
-第七章
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193021.png)
+
+指针的危险性:如果访问了非法的或无效的内存单元，就会导致运行时错误
+
+注意：![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193851.png)
+
+字面常量保存在符号表
+
+数组和指针的等价关系：
+
+![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713200012.png)
+
+字符数组、字符指针和字符串
+
+引用和指针
+
+引用的创建和销毁不会调用构造和析构函数
