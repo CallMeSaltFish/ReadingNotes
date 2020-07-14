@@ -2,7 +2,7 @@
 
 #### 质量属性
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710135001.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710135001.png)
 
 性能：优化的关键任务是找出限制性能的“瓶颈”
 
@@ -10,19 +10,19 @@
 
 作者基于CMMI 3级的软件过程模型，称为“精简并行过程”（SPP）
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710144541.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710144541.png)
 
 优点：
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710144958.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710144958.png)
 
 SPP三层模型
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710145034.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710145034.png)
 
 测试分类
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710150613.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710150613.png)
 
 ### 程序的基本概念
 
@@ -40,21 +40,21 @@ extern "C"
 
 规范
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710170450.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710170450.png)
 
 关于void* 和 NULL
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710171810.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710171810.png)
 
 强制类型转化所导致的内存截断或内存扩张
 
 ”换行“和”回车“
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710185439.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710185439.png)
 
 关于&&和||
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710190508.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200710190508.png)
 
 不要将布尔变量直接与TRUE或者-1、0、1等进行比较
 
@@ -64,11 +64,11 @@ extern "C"
 
 注意
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711144208.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711144208.png)
 
 const与#define的比较
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711145430.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711145430.png)
 
 非静态的const类成员的初始化只能在的类的构造函数的初始化列表中进行
 
@@ -78,23 +78,23 @@ const与#define的比较
 
 函数堆栈
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711160812.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711160812.png)
 
 函数传值/传址/传引用
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711163231.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711163231.png)
 
 类的赋值函数，返回引用
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711173208.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711173208.png)
 
 String的operator + 
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711173756.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711173756.png)
 
 return语句的效率
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711174521.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711174521.png)
 
 
 
@@ -104,7 +104,7 @@ return语句的效率
 
 递归和迭代
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711181909.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200711181909.png)
 
 断言assert
 
@@ -114,17 +114,17 @@ return语句的效率
 
 读写周期
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193021.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193021.png)
 
 指针的危险性:如果访问了非法的或无效的内存单元，就会导致运行时错误
 
-注意：![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193851.png)
+注意：![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193851.png)
 
 字面常量保存在符号表
 
 数组和指针的等价关系：
 
-![](C:\Users\Administrator\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713200012.png)
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713200012.png)
 
 字符数组、字符指针和字符串
 
