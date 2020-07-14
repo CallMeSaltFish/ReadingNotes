@@ -112,7 +112,7 @@ return语句的效率
 
 ### ※c++/c指针、数组和字符串
 
-读写周期
+#### 读写周期
 
 ![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713193021.png)
 
@@ -126,8 +126,32 @@ return语句的效率
 
 ![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200713200012.png)
 
-字符数组、字符指针和字符串
+#### 字符数组、字符指针和字符串
 
-引用和指针
+#### 引用和指针
 
 引用的创建和销毁不会调用构造和析构函数
+
+
+
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200714203444.png)
+
+
+
+### C++/C高级数据类型
+
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200714204742.png)
+
+#### 字节对齐
+
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200714212329.png)
+
+数据成员从大到小排列，只会在对象的末尾追加填充字节
+
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200714214014.png)
+
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200714214516.png)
+
+#### 联合
+
+联合的内存大小取决于其中字节数最多的成员、而不是累加
