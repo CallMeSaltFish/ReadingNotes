@@ -77,6 +77,20 @@ Unity’s console logging mechanism is prohibitively expensive.
 
 ## Chapter 2. Scripting Strategies
 
+### Cache Component references
+
 **A common mistake when scripting in Unity is to overuse the GetComponent() method.**
 
-103
+### Obtaining Components using the fastest method
+
+### Removing empty callback declarations
+
+### Avoiding the Find() and SendMessage() methods at runtime
+
+#### Static classes
+
+#### Singleton Components
+
+The disadvantage of the static class approach is that they must inherit from the lowest form of class—Object.（**cannot** inherit from **MonoBehaviour**）
+
+110
