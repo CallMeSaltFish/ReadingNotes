@@ -155,3 +155,11 @@ return语句的效率
 #### 联合
 
 联合的内存大小取决于其中字节数最多的成员、而不是累加
+
+### C++/C编译预处理
+
+#### 头文件包含顺序
+
+![](C:\Users\ranqinyuan.than\Desktop\ReadingNotes\《HQPD C++C》\Screenshot\QQ截图20200721152702.png)
+
+9.4
