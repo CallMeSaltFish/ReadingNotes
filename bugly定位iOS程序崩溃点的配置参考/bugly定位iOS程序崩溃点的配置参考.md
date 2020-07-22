@@ -1,14 +1,14 @@
-# Bugly定位iOS程序崩溃点的配置参考
+# Intership\bugly定位iOS程序崩溃点的配置参考
 
 ## 首先是崩溃函数的编写
 
-![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722172923.jpg)
+![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722172923.jpg)
 
 - 在Xcode下新建一个**.m**文件然后将后缀改为**.mm**
 - 将.mm文件导入unity\assets\Plugins\iOS目录下
 - 选择一种你喜欢的方式（我用了Button点击事件）调用
 
-![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ截图20200722173214.png)
+![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ截图20200722173214.png)
 
 - 然后打包成Xcode工程，编译运行即可在iOS上触发崩溃
 
@@ -138,7 +138,7 @@ func application(application: UIApplication, didFinishLaunchingWithOptions launc
 
 - bugly_unity.unitypackage文件导入后，文件目录与参考链接**有所出入**，**需要手动将BuglySDK\iOS\Bugly.framework导入到unity\assets文件下**
 
-  ![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ截图20200722174627.png)
+  ![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ截图20200722174627.png)
 
 - Xcode工程这边，我选择了手动集成
 
@@ -172,7 +172,7 @@ func application(application: UIApplication, didFinishLaunchingWithOptions launc
 
   Key为Bugly平台的App Key
 
-  ![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722192239.jpg)
+  ![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722192239.jpg)
 
 - 终端进入到符号表工具解压后的文件夹中
 - 执行命令**java -jar buglySymboliOS.jar -i ”.dSYM的文件路径“（没有双引号）**
@@ -188,7 +188,7 @@ func application(application: UIApplication, didFinishLaunchingWithOptions launc
 2. 进入到左栏Product文件夹下
 3. 右键xxx.app，”show in finder“
 
-![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722193328.jpg)
+![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722193328.jpg)
 
 ### XCode编译后没有生成dSYM文件？
 
@@ -196,8 +196,8 @@ func application(application: UIApplication, didFinishLaunchingWithOptions launc
 
 一
 
-![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722193715.jpg)
+![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722193715.jpg)
 
 二
 
-![](C:\Users\ranqinyuan.than\Desktop\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722193821.jpg)
+![](C:\Users\ranqinyuan.than\Desktop\Intership\bugly定位iOS程序崩溃点的配置参考\PictureQuote\QQ图片20200722193821.jpg)
