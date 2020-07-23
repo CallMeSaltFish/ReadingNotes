@@ -162,4 +162,14 @@ return语句的效率
 
 ![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200721152702.png)
 
-9.4
+### C++/C文件结构和程序版式
+
+### C++/C应用程序命名规则
+
+### C++面向对象程序设计方法概述
+
+**所谓虚函数表（vtable），就是函数指针数组**
+
+协变
+
+12.6.4
