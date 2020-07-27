@@ -91,6 +91,8 @@ Unity’s console logging mechanism is prohibitively expensive.
 
 #### Singleton Components
 
-The disadvantage of the static class approach is that they must inherit from the lowest form of class—Object.（**cannot** inherit from **MonoBehaviour**）
+The disadvantage of the **static class** approach is that they must inherit from the lowest form of class—Object.（**cannot** inherit from **MonoBehaviour**）
 
-110
+P110--> a SingletonAsComponent class
+
+111
