@@ -170,6 +170,30 @@ return语句的效率
 
 **所谓虚函数表（vtable），就是函数指针数组**
 
-协变
+协变（override返回参数不同）
 
-12.6.4
+c++支持运行时多态特性的手段有两种，这里讲的**虚函数机制**是其中主要的一种，另一种是**RTT1**
+
+**如果确实需要使用*多态数组*，请使用STL容器配合普通指针或智能指针**
+
+#### ※C++对象模型
+
+##### 基本C++对象模型
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727191909.png)
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727192647.png)
+
+##### 增加了继承和虚函数的类的对象模型
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727192725.png)
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727192741.png)
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727192819.png)
+
+隐含成员
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727200138.png)
+
+### 对象的初始化、拷贝和析构
