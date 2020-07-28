@@ -95,4 +95,4 @@ The disadvantage of the **static class** approach is that they must inherit from
 
 P110--> a SingletonAsComponent class
 
-111
+122
