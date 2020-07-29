@@ -197,3 +197,8 @@ c++支持运行时多态特性的手段有两种，这里讲的**虚函数机制
 ![](C:\Users\ranqinyuan.than\Desktop\Intership\internshipDairy\PictureQuote\QQ截图20200727200138.png)
 
 ### 对象的初始化、拷贝和析构
+
+拷贝构造函数第一次参数要是引用而不能是对象值？
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200729170810.png)
+
