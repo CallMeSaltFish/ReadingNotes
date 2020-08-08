@@ -212,5 +212,22 @@ c++支持运行时多态特性的手段有两种，这里讲的**虚函数机制
 
 ![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200801163756.png)
 
+#### 类型转换函数
 
+本质：
 
+![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200808145600.png)
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200807191535.png)
+
+#### Const成员函数
+
+访问规则
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200807193018.png)
+
+### 15章跳过
+
+### 内存管理
+
+16.15
