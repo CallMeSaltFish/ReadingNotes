@@ -230,4 +230,20 @@ c++支持运行时多态特性的手段有两种，这里讲的**虚函数机制
 
 ### 内存管理
 
+<<<<<<< HEAD
+16.13，16.14，16.15重点看
+
+### STL
+
+#### 随机访问和顺序访问的定义
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200817155924.png)
+
+#### 迭代器
+
+![](C:\Users\ranqinyuan.than\Desktop\Intership\《HQPD C++C》\Screenshot\QQ截图20200826153255.png)
+
+**无效迭代器的危险程度与无效指针一样**
+=======
 16.15
+>>>>>>> parent of 3f8b805... ''
