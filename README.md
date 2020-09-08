@@ -10,4 +10,4 @@ Reading
 
 《Unity5 Game Optimization》
 
-during practicing in shengqu
+intership in shengqu
